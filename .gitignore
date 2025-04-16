@@ -1,5 +1,6 @@
 bin
 obj
+Debug
 *.cbp
 *.depend
 *.layout
