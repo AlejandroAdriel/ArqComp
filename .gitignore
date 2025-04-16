@@ -1,4 +1,7 @@
 bin
-.cbp
-.depend
-.layout
+obj
+*.cbp
+*.depend
+*.layout
+*.o
+*.exe
