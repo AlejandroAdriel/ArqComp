@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1744172828 source:d:\cpp projects\boothalgorithm\main.cpp
+	<iostream>
+	<boost/dynamic_bitset.hpp>
+
